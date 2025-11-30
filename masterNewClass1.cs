@@ -10,7 +10,7 @@ namespace ConsoleAppMichael
     {
         new AnotherNewClass1 ()
         {
-            Console.WriteLine("Another method")
+            Console.WriteLine("changed another method")
         }
     }
 }
